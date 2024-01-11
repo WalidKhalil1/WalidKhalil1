@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **a social media app**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 💬 Ask me about **Android**
 
